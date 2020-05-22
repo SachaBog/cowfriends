@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cowfriends/static/css/main.811bda8b.chunk.css",
-    "main.js": "/cowfriends/static/js/main.63db9e6f.chunk.js",
-    "main.js.map": "/cowfriends/static/js/main.63db9e6f.chunk.js.map",
+    "main.js": "/cowfriends/static/js/main.fd30922c.chunk.js",
+    "main.js.map": "/cowfriends/static/js/main.fd30922c.chunk.js.map",
     "runtime-main.js": "/cowfriends/static/js/runtime-main.83a052bd.js",
     "runtime-main.js.map": "/cowfriends/static/js/runtime-main.83a052bd.js.map",
     "static/css/2.3c03f26f.chunk.css": "/cowfriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.f825feb2.chunk.js": "/cowfriends/static/js/2.f825feb2.chunk.js",
     "static/js/2.f825feb2.chunk.js.map": "/cowfriends/static/js/2.f825feb2.chunk.js.map",
     "index.html": "/cowfriends/index.html",
-    "precache-manifest.243345cb2815b3fdf54df644a7d7450d.js": "/cowfriends/precache-manifest.243345cb2815b3fdf54df644a7d7450d.js",
+    "precache-manifest.9d59b7cd7efcd6847ec637cbfe1270f2.js": "/cowfriends/precache-manifest.9d59b7cd7efcd6847ec637cbfe1270f2.js",
     "service-worker.js": "/cowfriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/cowfriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.811bda8b.chunk.css.map": "/cowfriends/static/css/main.811bda8b.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.f825feb2.chunk.js",
     "static/css/main.811bda8b.chunk.css",
-    "static/js/main.63db9e6f.chunk.js"
+    "static/js/main.fd30922c.chunk.js"
   ]
 }
