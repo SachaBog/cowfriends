@@ -46,14 +46,14 @@ export const cows = [
     },
     {
         id: 6,
-        name:'Tommie',
+        name:'Tommie Romcom',
         username: 'ToToTommie',
-        email: 'tomtom@hotmail.com',
+        email: 'RomComTom@hotmail.com',
         img: tommie, 
     },
     {
         id: 7,
-        name:'Kokosnoot',
+        name:'Kokosnoot Hawaii',
         username: 'kokosnootuuuuh',
         email: 'coke_osnoot@gmail.com',
         img: kokosnoot, 
