@@ -1,0 +1,10 @@
+@font-face {
+font-family: "Happy Cow"; 
+font-style: normal;
+font-weight: normal;
+src: local('Happy Cow'), url('cow.woff') format('woff');
+}
+
+h1 {
+    font-family: "Happy Cow";
+ }
