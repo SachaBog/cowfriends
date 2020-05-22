@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cowfriends/precache-manifest.874ef194fb61b393e5cd638c4bec4c64.js"
+  "/cowfriends/precache-manifest.3d338e32c5db02b51a22afdccacbf636.js"
 );
 
 self.addEventListener('message', (event) => {
