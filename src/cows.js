@@ -11,7 +11,7 @@ import pieter from './images/pieter.jpg'
 export const cows = [
     {
         id: 1,
-        name:'Anna de Koe',
+        name:'Anna Koe',
         username: 'AnnaCowie',
         email: 'anna@cowfriends.com',
         img: anna,
