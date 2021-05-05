@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47d247189f8910bf1c23294ea52f68fc",
+    "revision": "a7b71c8e11500c4ecfbac412c3409b66",
     "url": "/cowfriends/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cowfriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "6da1b9667954c99cbc55",
-    "url": "/cowfriends/static/css/main.811bda8b.chunk.css"
+    "revision": "67307db6e5ed39f8e85f",
+    "url": "/cowfriends/static/css/main.497456af.chunk.css"
   },
   {
     "revision": "d522c3f7d2bfe48e823f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cowfriends/static/js/2.f825feb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6da1b9667954c99cbc55",
-    "url": "/cowfriends/static/js/main.b06fbf8f.chunk.js"
+    "revision": "67307db6e5ed39f8e85f",
+    "url": "/cowfriends/static/js/main.1dbfa8d0.chunk.js"
   },
   {
     "revision": "607690e3a8fd92d085ad",
